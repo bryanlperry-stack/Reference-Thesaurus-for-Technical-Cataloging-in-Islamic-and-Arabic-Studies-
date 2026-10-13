@@ -1,0 +1,2 @@
+# Reference-Thesaurus-for-Technical-Cataloging-in-Islamic-and-Arabic-Studies-
+A bilingual Arabic-English technical reference vocabulary designed to streamline Arabic-language cataloging workflows. It provides standardized metadata mappings, biographical name authority structure (LCNAF), and multi-format media descriptors, ensuring consistent indexing and retrieval across digital and physical collections.
